@@ -1,0 +1,15 @@
+[
+    {
+      "ProductID": 1,
+      "ProductName": "Product A",
+      "ValidityPeriod": 12,
+      "ProductCost": 100
+    },
+    {
+      "ProductID": 2,
+      "ProductName": "Product B",
+      "ValidityPeriod": 6,
+      "ProductCost": 50
+    }
+  ]
+  
